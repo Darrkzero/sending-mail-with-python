@@ -12,7 +12,7 @@
 ## Activate 2 step verification password
 
 <p width="100%">
-<img src="/images/picture2.png" width="300">
+<img src="/images/picture2.png" width="500">
 </p>
 
 
