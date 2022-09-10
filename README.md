@@ -5,7 +5,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/Darrkzero/tkinter.svg?style=social&label=Watch&maxAge=2592000)
 
 # <p align="center">Introduction</p>
-<h4 align="center">when i tried sending an email with python, I noticed that the less secure app feature is no longer available.<br>This procedures is to help you send email with python. </h4>
+<h4 align="center">when i tried sending an email with python, I noticed that the less secure app feature is no longer available.<br>This procedures is to help you send email with python.<br>
+Note: This only works when sending from a gmail account</h4>
 
 # <p align="center">Steps</p>
 
@@ -36,7 +37,8 @@ https://myaccount.google.com/apppasswords
 
 ## Send the mail
 
-<h4> use the App Password created as the password when typing the code.</h4>
+<h4> use the App Password created as the password when typing the code.<br>
+the source code is in the repository</h4>
 <p width="100%">
 <img src="/images/picture4.png" width="500">
 </p>
