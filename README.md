@@ -34,3 +34,12 @@ https://myaccount.google.com/security
 https://myaccount.google.com/apppasswords
 ```
 
+## Send the mail
+
+<h4> use the App Password created as the password when typing the code.</h4>
+<p width="100%">
+<img src="/images/picture4.png" width="500">
+</p>
+
+
+
