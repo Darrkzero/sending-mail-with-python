@@ -24,7 +24,7 @@ https://myaccount.google.com/security
 ## Generate APP PASSWORD
 
 <p width="100%">
-<img src="" width="500">
+<img src="/images/picture5.png" width="500">
 </p>
 <h4>Use the link below:</h4>
 
