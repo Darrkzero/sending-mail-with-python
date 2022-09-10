@@ -12,7 +12,7 @@
 ## Activate 2 step verification password
 
 
-<img align="right" width="350px" src="/images/picture2.png" alt="clone this repository" />
+<img width="400px" src="/images/picture2.png" alt="clone this repository" />
 
 
 ```sh
@@ -21,6 +21,6 @@ https://myaccount.google.com/security
 
 
 
-<h2>Generate APP PASSWORD</h2>
+## Generate APP PASSWORD
 
 <h4 align="center">The calculator contains the basic features(addition,subtracton,division and multiplication).you can contribute by adding other features to the calculator</h4>
