@@ -14,14 +14,21 @@
 <p width="100%">
 <img src="/images/picture2.png" width="500">
 </p>
-
+<h4>Use the link below:</h4>
 
 ```sh
 https://myaccount.google.com/security
 ```
 
 
-
 ## Generate APP PASSWORD
 
-<h4 align="center">The calculator contains the basic features(addition,subtracton,division and multiplication).you can contribute by adding other features to the calculator</h4>
+<p width="100%">
+<img src="/images/picture3.png" width="500">
+</p>
+<h4>Use the link below:</h4>
+
+```sh
+https://myaccount.google.com/apppasswords
+```
+
