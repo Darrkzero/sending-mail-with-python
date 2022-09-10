@@ -11,8 +11,9 @@
 
 ## Activate 2 step verification password
 
-
-<img width="400px" src="/images/picture2.png" alt="clone this repository" />
+<p width="100%">
+<img src="/images/picture2.png" width="300">
+</p>
 
 
 ```sh
