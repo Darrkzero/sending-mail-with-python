@@ -1,8 +1,8 @@
 # sending-mail-with-gmail
 
-![GitHub forks](https://img.shields.io/github/forks/Darrkzero/tkinter.svg?style=social&label=Fork&maxAge=2592000)
-![GitHub stars](https://img.shields.io/github/stars/Darrkzero/tkinter.svg?style=social&label=Star&maxAge=2592000)
-![GitHub watchers](https://img.shields.io/github/watchers/Darrkzero/tkinter.svg?style=social&label=Watch&maxAge=2592000)
+![GitHub forks](https://img.shields.io/github/forks/Darrkzero/sending-mail-with-python.svg?style=social&label=Fork&maxAge=2592000)
+![GitHub stars](https://img.shields.io/github/stars/Darrkzero/sending-mail-with-python.svg?style=social&label=Star&maxAge=2592000)
+![GitHub watchers](https://img.shields.io/github/watchers/Darrkzero/sending-mail-with-python.svg?style=social&label=Watch&maxAge=2592000)
 
 # <p align="center">Introduction</p>
 <h4 align="center">when I tried sending an email with python, I noticed that the less secure app feature is no longer available.<br>This procedures is to help you send email with python without using the less secure app feature.<br>
