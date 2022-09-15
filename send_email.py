@@ -1,15 +1,18 @@
 from email.message import EmailMessage
 import ssl
 import smtplib
+from dotenv import load_dotenv
+load_dotenv()
+
 import os
 
-sender_email = "adilijude1@gmail.com"
-receiver_email = "chimaobiephraim@yahoo.com"
+sender_email = input("Enter Sender Gmail: ")
+receiver_email = input("Enter Receiver Email: ")
 
 # the app password generated from gmail
-password = os.environ.get("MY_PASSWORD") 
-subject = "birthday wishes"
-body = "Happy birthday to you"
+password = os.environ.get("MY_PASSWORD")
+subject = input("Subject of Mail: ")
+body = input("Write your message here: ")
 
 em = EmailMessage()
 em["From"] = receiver_email
